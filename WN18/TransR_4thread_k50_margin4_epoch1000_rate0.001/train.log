@@ -1,0 +1,3 @@
+strategy:TransR dataset:WN18 nthread:4 k:50 margin:4 nepoch:1000 rate:0.001 version:unif
+relation_num=18
+entity_num=40943

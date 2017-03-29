@@ -1,0 +1,6 @@
+size = 100
+learing rate = 0.001
+margin = 1
+method = bern
+version:unif nthread:4 dataset:FB15k
+4
