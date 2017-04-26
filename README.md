@@ -51,6 +51,9 @@ nohup ./train_test_TransE > logs 2>&1 &
 ```
 More specific details can be found in the shell scripts, you can also make customized scripts.
 
+Notice:
+
+You should set $coreNum in the shell script less than the max number of your cores in your machine.
 
 Cite
 ==========
