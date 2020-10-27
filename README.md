@@ -61,3 +61,11 @@ Cite
 If you use the code, please kindly cite the following paper:
 
 Denghui Zhang, Manling Li, Yantao Jia, Yuanzhuo Wang. Efficient Parallel Translating Embedding For Knowledge Graphs.IEEE/WIC/ACM International Conference on Web Intelligence 2017 (WI 2017).[[pdf]](http://zhangdenghui.tech/docs/ParTransX.pdf)
+
+@inproceedings{zhang2017efficient,
+  title={Efficient parallel translating embedding for knowledge graphs},
+  author={Zhang, Denghui and Li, Manling and Jia, Yantao and Wang, Yuanzhuo and Cheng, Xueqi},
+  booktitle={Proceedings of the International Conference on Web Intelligence},
+  pages={460--468},
+  year={2017}
+}
